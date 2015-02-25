@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mk-asp", "mk-asp.csproj", "{27CC5F80-171F-4646-920E-CB16F57307C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mk-asp", "mk-asp\mk-asp.csproj", "{FAC85C82-8473-46E9-B273-A39A8B936573}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{27CC5F80-171F-4646-920E-CB16F57307C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27CC5F80-171F-4646-920E-CB16F57307C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27CC5F80-171F-4646-920E-CB16F57307C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27CC5F80-171F-4646-920E-CB16F57307C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC85C82-8473-46E9-B273-A39A8B936573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC85C82-8473-46E9-B273-A39A8B936573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC85C82-8473-46E9-B273-A39A8B936573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC85C82-8473-46E9-B273-A39A8B936573}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
