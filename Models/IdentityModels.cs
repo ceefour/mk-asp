@@ -29,5 +29,7 @@ namespace mk_asp.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<mk_asp.Models.RestaurantModel> RestaurantModels { get; set; }
     }
 }
